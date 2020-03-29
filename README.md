@@ -1,6 +1,6 @@
 Author: Manisha Anantharam
 cd react-redux-simple-login-application  
-npm isntall   
+npm install   
 npm start  
 
 
